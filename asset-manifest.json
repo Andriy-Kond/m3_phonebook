@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/m3_phonebook/static/js/main.885f03a9.js",
+    "main.js": "/m3_phonebook/static/js/main.de1069f9.js",
     "index.html": "/m3_phonebook/index.html",
-    "main.885f03a9.js.map": "/m3_phonebook/static/js/main.885f03a9.js.map"
+    "main.de1069f9.js.map": "/m3_phonebook/static/js/main.de1069f9.js.map"
   },
   "entrypoints": [
-    "static/js/main.885f03a9.js"
+    "static/js/main.de1069f9.js"
   ]
 }
